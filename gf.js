@@ -1,0 +1,1 @@
+const gf=6
